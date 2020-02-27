@@ -628,7 +628,7 @@ a,
 .btn-danger.btn-fill,
 .navbar .navbar-nav > li > a.btn-danger.btn-fill {
   color: #ffffff;
-  background-color: ##24a7d0;
+  background-color: #24a7d0;
   opacity: 1;
   filter: alpha(opacity=100);
 }
@@ -2686,7 +2686,6 @@ fieldset[disabled] .form-control {
     padding-right: 0;
     padding-left: 0;
   }
-  
 
   .section-we-made-2 .scroll-area {
     width: 70%;
@@ -3448,9 +3447,8 @@ body {
 @media (max-width: 767px) {
   .navbar-transparent {
     padding-top: 0;
-    background-color: rgba(0,0,0,0.45;
-  } 
-  
+    background-color: rgba(0, 0, 0, 0.45);
+  }
 
   #bodyClick {
     right: 230px;
@@ -3780,15 +3778,9 @@ body {
     padding: 0;
   }
 
-  
-
-.box-shadow {
-  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
-  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
-  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
-}
-
-
-#projects{
-  overlay
+  .box-shadow {
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+  }
 }
