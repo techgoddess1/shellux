@@ -6,6 +6,10 @@ html {
   height: 100%;
 }
 
+.about {
+  margin-top: 30px;
+}
+
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -2682,9 +2686,7 @@ fieldset[disabled] .form-control {
     padding-right: 0;
     padding-left: 0;
   }
-  .section-we-made-1 .transition-1 {
-    /*     		transition: all 0.5s; */
-  }
+  
 
   .section-we-made-2 .scroll-area {
     width: 70%;
@@ -3446,8 +3448,9 @@ body {
 @media (max-width: 767px) {
   .navbar-transparent {
     padding-top: 0;
-    background-color: rgba(0, 0, 0, 0.45);
-  }
+    background-color: rgba(0,0,0,0.45;
+  } 
+  
 
   #bodyClick {
     right: 230px;
@@ -3776,4 +3779,16 @@ body {
   .section-pricing .row [class^="col-"] {
     padding: 0;
   }
+
+  
+
+.box-shadow {
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.14);
+}
+
+
+#projects{
+  overlay
 }
